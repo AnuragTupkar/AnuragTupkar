@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Ecommerce Website**
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Next Js**
 
 - 👨‍💻 All of my projects are available at [https://anuragtupkar.netlify.app/](https://anuragtupkar.netlify.app/)
 
