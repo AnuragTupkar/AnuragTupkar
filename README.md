@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next Js**
 
-- 👨‍💻 Portfolio (https://anuragtupkar.vercel.app/)(https://anuragtupkar.vercel.app/)
+- 👨‍💻 Portfolio https://anuragtupkar.vercel.app/
 
 - 📫 How to reach me **anuragtupkar168@gmail.com**
 
