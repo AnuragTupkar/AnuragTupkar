@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next Js**
 
-- 👨‍💻 All of my projects are available at [https://anuragtupkar.netlify.app/](https://anuragtupkar.netlify.app/)
+- 👨‍💻 Portfolio [(https://anuragtupkar.vercel.app/)]((https://anuragtupkar.vercel.app/))
 
 - 📫 How to reach me **anuragtupkar168@gmail.com**
 
